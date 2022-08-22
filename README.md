@@ -2,8 +2,8 @@
 
 ## Overview
 
-This is a repo to provide the generated and annotated slide sets whose sources
-are maintained in https://github.com/Compilerbau/Lecture ...
+This is an auxiliary, read-only repo to provide the generated and annotated slide sets (sources
+can be found in https://github.com/Compilerbau/CB-Lecture-Bachelor).
 
 
 ## Contributing
