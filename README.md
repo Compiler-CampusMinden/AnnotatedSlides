@@ -8,9 +8,11 @@ can be found in https://github.com/Compilerbau/CB-Lecture-Bachelor).
 
 ## Contributing
 
-Questions, bug reports, feature requests and pull requests are very welcome.
-Please be sure to read the [contributor guidelines](CONTRIBUTING.md) before
-opening a new issue.
+Questions, bug reports and feature requests are very welcome. Please use the issue tracker at
+[Compilerbau/CB-Lecture-Bachelor](https://github.com/Compilerbau/CB-Lecture-Bachelor/issues/new).
+
+Please be sure to read the [contributor guidelines](https://github.com/Compilerbau/CB-Lecture-Bachelor/blob/master/CONTRIBUTING.md)
+before opening a new issue.
 
 
 ## License
