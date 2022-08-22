@@ -1,4 +1,4 @@
-# Lecture "Compilerbau"
+# Lecture "Compilerbau": Annotated Slides
 
 ## Overview
 
