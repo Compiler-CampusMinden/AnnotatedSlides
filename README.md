@@ -3,7 +3,7 @@
 ## Overview
 
 This is an auxiliary, read-only repo to provide the generated and annotated slide sets (sources
-can be found in https://github.com/Compilerbau/CB-Lecture-Bachelor).
+can be found in [Compilerbau/CB-Lecture-Bachelor](https://github.com/Compilerbau/CB-Lecture-Bachelor)).
 
 
 ## Contributing
