@@ -8,6 +8,11 @@
 ._*
 
 
+# Temporary directory #
+#######################
+tmp/
+
+
 # Packages #
 ############
 *.dmg
